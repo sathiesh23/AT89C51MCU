@@ -1,0 +1,26 @@
+void main() {
+P2=0x00;
+while(1)
+{
+ p2=0x00;
+ delay_ms(1000);
+ p2=0x01;
+ delay_ms(1000);
+ p2=0x02;
+ delay_ms(1000);
+ p2=0x03;
+ delay_ms(1000);
+ p2=0x04;
+ delay_ms(1000);
+ p2=0x05;
+ delay_ms(1000);
+ p2=0x06;
+ delay_ms(1000);
+ p2=0x07;
+ delay_ms(1000);
+ p2=0x08;
+ delay_ms(1000);
+ p2=0x09;
+ delay_ms(1000);
+}
+}
